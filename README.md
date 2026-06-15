@@ -35,3 +35,5 @@ python main.py --export-json report.json
 ## Prerequisites
 
 AWS credentials must be configured via `~/.aws/credentials`, environment variables, or IAM role.
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
